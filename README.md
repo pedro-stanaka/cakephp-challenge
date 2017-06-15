@@ -1,4 +1,4 @@
-# Post tagging challenge
+# MicroBlog Challenge
 
 In this challenge you will be creating an API for a microblogging platform which have:
 * **Posts** and 
