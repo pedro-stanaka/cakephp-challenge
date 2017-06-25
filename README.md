@@ -15,7 +15,7 @@ Optionally (will grant **extra points**):
 * Use [Crud](crud.readthedocs.org/en/latest/) plugin
 * Use [Search Plugin](https://github.com/FriendsOfCake/search) to filter data
 
-## Challenge scenario
+## Challenge API
 
 We are creating an mobile app which depends on an API, and in our microblogging platform the users 
 can:
@@ -122,6 +122,22 @@ it can have more. The names of the fields may change accordingly with your schem
   ]
 }
 ```
+
+## Challenge WEB
+Create a web interface for users who wants to use the browser instead of the app. You'll have to use cake template system files (.ctp) and would be nice to use cakephp habilities to save related data automatically. In this interface users will be able to:
+
+### Create posts
+
+Users should be able to create **posts** and choose from a dropdown list **users** they want to **tag**, for the users that not exist users must be able enter usernames separated by comma.
+
+### List posts
+
+Users should be able to list posts and see the content of the posts and the users tagged in the post.
+
+### Notes:
+
+> Note 1: Crud plugin usage is desirable, but not a must. 
+> Note 2: Use prefix routing of CakePHP to separate concerns.
 
 ## Availiation criteria
 
