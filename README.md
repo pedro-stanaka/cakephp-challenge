@@ -12,7 +12,7 @@ These ones are a must:
 * MySQL
 
 Optionally (will grant **extra points**):
-* Use [Crud](crud.readthedocs.org/en/latest/) plugin
+* Use [Crud](http://crud.readthedocs.org/en/latest/) plugin
 * Use [Search Plugin](https://github.com/FriendsOfCake/search) to filter data
 
 ## Challenge API
